@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Set environment variables
-export SPARK_HOME="/usr/lib/python3.11/site-packages/pyspark"
-export PYTHONPATH="$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.9.7-src.zip:$PYTHONPATH"
-
 # Execute data.py script
 echo "Executing data.py script..."
 python3 data.py
