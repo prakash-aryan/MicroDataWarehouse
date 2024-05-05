@@ -54,6 +54,7 @@ To run the MicroDataWarehouse project, follow these steps:
 1. Clone the repository or download the project files: 
 ```Bash
 git clone https://github.com/prakash-aryan/MicroDataWarehouse.git
+cd MicroDataWarehouse
 ```
 
 2. Download the required JAR files:
@@ -64,7 +65,7 @@ Place both JAR files in the project directory.
 
 3. Create a virtual environment and activate it:
 ```Bash
-python -m venv microdatawarehouse_venv
+python3 -m venv microdatawarehouse_venv
 source microdatawarehouse_venv/bin/activate
 ```
 
