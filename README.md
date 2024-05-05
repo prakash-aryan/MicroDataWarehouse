@@ -83,23 +83,6 @@ chmod +x run_etl.sh
 
 You can now explore and visualize the transformed data using the Metabase web interface.
 
-## Metabase Interface
-
-After running the example, you can access the Metabase interface and explore the transformed data. Here are some screenshots of the Metabase interface:
-
-### Accounts Overview
-
-![Accounts Overview](exampleAnalytics.png)
-
-This image shows the "Accounts Overview" section in Metabase. From here, you can access various insights and analytics related to accounts, such as user growth, new accounts per month, and more.
-
-### Sample Dashboard
-
-![Sample Dashboard](overview.png)
-
-This image represents a sample dashboard in Metabase. The user can access any of the available dashboards or create new ones to visualize and analyze the transformed data.
-
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
